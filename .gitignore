@@ -1,0 +1,11 @@
+.venv
+.vscode
+config/.env
+API - AQ.Ab8RN6IGaL-EK2zTPqpU2PlnxD.txt
+*.pdf
+*.txt
+
+# Ignore the following files for security reasons
+# do not include any txt or pdf files
+# write code below to ignore any other files that may contain sensitive information
+
